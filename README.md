@@ -1,8 +1,6 @@
-### EX NO: 01
+### EX NO: 03
 ### DATE:
 # <p align="center">Marginal distributions and correation coefficient</p>
-
-# Marginal distributions and correation coefficient  
 
 # Aim : 
 To find marginal distributions and correation coefficient of joint probability mass funcition of two dimensional random variables
