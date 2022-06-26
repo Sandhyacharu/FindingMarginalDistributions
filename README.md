@@ -1,3 +1,7 @@
+### EX NO: 01
+### DATE:
+# <p align="center">Marginal distributions and correation coefficient</p>
+
 # Marginal distributions and correation coefficient  
 
 # Aim : 
@@ -19,10 +23,11 @@ Correlation coefficients are indicators of the strength of the linear relationsh
 ![image](https://user-images.githubusercontent.com/104613195/168220332-09383cb4-a7ac-4526-b547-fc522ca53227.png)
 
 # Program
-### Developed by
-### Register Number: 212220230041
-### Name: N Sandhya Charu
 ```python3
+# Developed by
+# Register Number: 212220230041
+# Name: N Sandhya Charu
+
 import numpy as np
 import math
 P=[[0,0.01,0.03,0.05,0.07,0.09],
